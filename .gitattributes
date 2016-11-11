@@ -1,2 +1,4 @@
 *.bar linguist-vendored
 test/* linguist-vendored
+test2/* binary
+test3/* -diff
